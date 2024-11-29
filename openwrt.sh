@@ -7,7 +7,7 @@ downloadUrl=$1
 # 配置变量
 binrunurl='https://raw.githubusercontent.com/FxPool/SSLMIX/main/sslmixapp/openwrtapp.sh'
 setAppName='sslmix_openwrt_app'
-shell_version='openwrtV1.0.8'
+shell_version='openwrtV1.0.0'
 installfolder=/root/$setAppName/sslmix_openwrt_running
 sofname='sslmix_openwrt_running'
 AppFileName=$setAppName
