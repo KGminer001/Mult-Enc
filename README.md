@@ -58,12 +58,12 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/KGminer001/Mult-Enc/openwrt.sh) ht
 
 ### 一键安装脚本(openwrt arm32 v7 (armv7l)架构)
 
-````shell
+```shell
 bash <(curl -s -L https://cdn.jsdelivr.net/gh/KGminer001/Mult-Enc/openwrt.sh) https://cdn.jsdelivr.net/gh/KGminer001/Mult-Enc@main MultiEnclinux32armv7l
+
 
 
 ## windows 直接下载解压
 
-```shell
 https://raw.githubusercontent.com/KGminer001/Mult-Enc/main/MultiEncwindows.zip
-````
+```
