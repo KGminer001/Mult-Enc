@@ -10,7 +10,7 @@ setAppName=$2
 shell_version='1.0.0'
 installfolder=/root/$setAppName/running
 sofname='running'
-sofnamekeep='sslmix'
+sofnamekeep='MultiEnc'
 AppFileName=$setAppName
 AppName=$setAppName.tar.gz
 
