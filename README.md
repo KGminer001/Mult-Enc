@@ -1,6 +1,6 @@
 ## Windows 客户端下载-本地加密隧道
 
-Windows 客户端 MultiEnc 软件下载 [本地加密隧道\_V1.0.0](https://raw.githubusercontent.com/KGminer001/KGminerproxy/main/windowsstart/MultiEncwindows.zip)
+MultiEnc 软件下载 [本地加密隧道\_V1.0.0](https://raw.githubusercontent.com/KGminer001/KGminerproxy/main/windowsstart/MultiEncwindows.zip)
 
 ## 国际网络
 
