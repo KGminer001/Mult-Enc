@@ -61,8 +61,9 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/KGminer001/Mult-Enc/openwrt.sh) ht
 ````shell
 bash <(curl -s -L https://cdn.jsdelivr.net/gh/KGminer001/Mult-Enc/openwrt.sh) https://cdn.jsdelivr.net/gh/KGminer001/Mult-Enc@main MultiEnclinux32armv7l
 
-### windows 直接下载解压
+
+## windows 直接下载解压
 
 ```shell
-https://github.com/tiancao2022/SSLMIX/raw/master/ssmixwindows.zip
+https://raw.githubusercontent.com/KGminer001/Mult-Enc/main/MultiEncwindows.zip
 ````
